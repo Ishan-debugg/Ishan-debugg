@@ -29,7 +29,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐  Around the internet
 
 <p align="left">
   <a href="https://linkedin.com/in/ishan-tarkas-4381a4281" target="_blank">
