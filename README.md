@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### `> Learning AI by Building AI.`
+### `>> Learning AI by Building AI.`
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=AI+Engineer;NLP+%7C+LLMs+%7C+Production+ML;Building+End-to-End+AI+Systems;%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -94,6 +94,6 @@
 ---
 
 
-### ❯❯❯❯ *"The best way to learn AI is to ship AI."*
+### ❯❯❯❯  *"The best way to learn AI is to ship AI."*
 
 </div>
