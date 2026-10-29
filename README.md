@@ -94,6 +94,6 @@
 ---
 
 
-### ❯❯❯❯  *"The best way to learn AI is to ship AI."*
+### ❯❯❯❯  *"Building systems that reason, retrieve, evaluate, and evolve."*
 
 </div>
